@@ -4,22 +4,16 @@ body {
     font-family: 'Open Sans', sans-serif !important;
 }
 
-/* .brand-identity {
+.brand-identity {
     text-decoration: none;
     color: #ff600b;
-} */
-
-/* .brand-identity:hover {
-    color: #fff;
-} */
-
-
-
-.brand-identity img {
-    width: 100%;
-    max-width: 96px;
-    height: auto;
 }
+
+.brand-identity:hover {
+    color: #fff;
+}
+
+
 
 .launch-date {
     display: inline-block;
@@ -58,11 +52,7 @@ footer {
     font-size: 1.5rem;
 }
 
-footer .brand-identity img {
-    width: 100%;
-    max-width: 64px;
-    height: auto;
-}
+
 
 footer small {
     float: right;
