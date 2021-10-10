@@ -23,7 +23,7 @@ const NewReleases = () => {
     return (
         <div className="container">
             <div className="row">
-                <h1 className="text-center text-uppercase">Upcoming Rleases</h1>
+                <h1 className="text-center text-uppercase font-weight-bold">Upcoming Rleases</h1>
             </div>
             <Product listItems = {products} />
         </div>

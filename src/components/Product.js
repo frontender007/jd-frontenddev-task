@@ -15,8 +15,8 @@ const Product = (props) => {
                     <span className="launch-date">{product.launchDate.substring(0, product.launchDate.indexOf('T'))}</span>
                         <img className="card-img-top" src={product.mainImage.original} alt="Card cap" />
                             <div className="card-body">
-                                <h5 className="card-title">{product.name}</h5>
-                                <h6>{product.price.currency} {product.price.amount}</h6>
+                                <h4 className="card-title">{product.name}</h4>
+                                <h6>&#163;{product.price.amount}</h6>
                                 <h6>{product.gender}</h6>
                                 <h6 className="platform">Launching On: <span>{(product.launchesOn).toUpperCase()}</span></h6>
                             </div>

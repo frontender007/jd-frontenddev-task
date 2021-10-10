@@ -1,10 +1,24 @@
-.brand-identity {
-    text-decoration: none;
-    color: #ff600b;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
 }
 
-.brand-identity:hover {
+/* .brand-identity {
+    text-decoration: none;
+    color: #ff600b;
+} */
+
+/* .brand-identity:hover {
     color: #fff;
+} */
+
+
+
+.brand-identity img {
+    width: 100%;
+    max-width: 96px;
+    height: auto;
 }
 
 .launch-date {
@@ -44,6 +58,11 @@ footer {
     font-size: 1.5rem;
 }
 
+footer .brand-identity img {
+    width: 100%;
+    max-width: 64px;
+    height: auto;
+}
 
 footer small {
     float: right;

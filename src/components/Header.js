@@ -5,7 +5,7 @@ const Header = () => {
             <div className="container">
                 <div className="row">
                     <h3>
-                        <a href="https://www.size.co.uk/" className="brand-identity">Size?</a>
+                        <a href="https://www.size.co.uk/" className="brand-identity"><img src="\logo-large-en.png" /></a>
                     </h3>
                 </div>
             </div>
