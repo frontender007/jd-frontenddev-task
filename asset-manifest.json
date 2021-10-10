@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontender007/jd-frontenddev-task/static/css/main.fb9127a5.chunk.css",
+    "main.js": "/frontender007/jd-frontenddev-task/static/js/main.146ebf4a.chunk.js",
+    "main.js.map": "/frontender007/jd-frontenddev-task/static/js/main.146ebf4a.chunk.js.map",
+    "runtime-main.js": "/frontender007/jd-frontenddev-task/static/js/runtime-main.65493fef.js",
+    "runtime-main.js.map": "/frontender007/jd-frontenddev-task/static/js/runtime-main.65493fef.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/frontender007/jd-frontenddev-task/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.7d627d24.chunk.js": "/frontender007/jd-frontenddev-task/static/js/2.7d627d24.chunk.js",
+    "static/js/2.7d627d24.chunk.js.map": "/frontender007/jd-frontenddev-task/static/js/2.7d627d24.chunk.js.map",
+    "index.html": "/frontender007/jd-frontenddev-task/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/frontender007/jd-frontenddev-task/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.fb9127a5.chunk.css.map": "/frontender007/jd-frontenddev-task/static/css/main.fb9127a5.chunk.css.map",
+    "static/js/2.7d627d24.chunk.js.LICENSE.txt": "/frontender007/jd-frontenddev-task/static/js/2.7d627d24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65493fef.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.7d627d24.chunk.js",
+    "static/css/main.fb9127a5.chunk.css",
+    "static/js/main.146ebf4a.chunk.js"
+  ]
+}
