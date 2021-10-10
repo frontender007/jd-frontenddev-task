@@ -7,7 +7,7 @@ const Product = (props) => {
         <div className="row">
             {
             products.map(product => {
-
+                console.log(product);
                return (
                 
                 <div className="col-lg-4 col-md-6 col-sm-12 my-3" key={product.name[product.name.length -1]}>
@@ -18,6 +18,7 @@ const Product = (props) => {
                                 <h5 className="card-title">{product.name}</h5>
                                 <h6>{product.price.currency} {product.price.amount}</h6>
                                 <h6>{product.gender}</h6>
+                                <h6 className="platform">Launching On: <span>{(product.launchesOn).toUpperCase()}</span></h6>
                             </div>
                         <a href={product.link} className="btn btn-dark btn-lg btn-block rounded-0">
                             {product.launchesOn === "website" ? "Buy Now" : "View Raffle"}
