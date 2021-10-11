@@ -58,3 +58,20 @@ footer small {
     float: right;
 }
 
+@media screen and (max-width: 560px) {
+    footer {
+        font-size: 1.2rem;
+    }
+
+    footer small {
+        float: none;
+    }
+
+    footer .col-sm-6 {
+        text-align: center;
+        width: 100%;
+        border: 1px solid #ff600b;
+        padding: 12px 0;
+        margin: 12px 0;
+    }
+}

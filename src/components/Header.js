@@ -3,7 +3,7 @@ const Header = () => {
 
     return (
         <header>
-            <div className="container">
+            <div className="container text-center">
                 <div className="row">
                     <h3>
                         <a href="https://www.size.co.uk/" className="brand-identity">Size?</a>
